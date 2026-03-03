@@ -72,4 +72,5 @@ public class BannerApp {
             System.out.println(line);
         }
     }
+
 }
